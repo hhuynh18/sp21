@@ -68,7 +68,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 [lec05]: materials/lecture/lec05-f19-intermediate-representation.pdf
 [lec06]: materials/lecture/lec06-f19-semantic-analysis.pdf
 [lec07]: materials/lecture/lec07-unoptimized-codegen.pdf
-[lec08]: materials/lecture/lec08-program-analysis.pdf
+[lec08]: materials/lecture/lec08-s21-program-analysis.pdf
 [lec09]: materials/lecture/lec09-program-analysis-2.pdf
 [lec10]: materials/lecture/lec10-loop-optimization.pdf
 [lec11]: materials/lecture/lec11-register-allocation.pdf
