@@ -17,7 +17,7 @@
 	```
 
 	1. Show that this grammar is ambiguous by providing two parse trees for a string in the language.
-	1. Using the SLR parsing algorithm covered in class, does this result in a shift-reduce or a reduce-reduce conflict? Explain why.
+	1. Using the SLR parsing algorithm covered in class, does this ambiguity result in a shift-reduce or a reduce-reduce conflict? Explain why.
 	1. Hack the grammar to make it unambiguous. You can resolve ambiguities in either direction. Explain in a few sentences how your new grammar eliminates the ambiguity, and if isn't immediately clear from your grammar rules, why it recognizes the same language.
 
 1. Consider the following class hierarchy:
