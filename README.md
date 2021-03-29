@@ -51,7 +51,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `03/08 - 03/12` | Student holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/>[L: codegen~58][lec07] | [L: codegen~79][lec07] | [L: codegen~$][lec07] | |
 | `03/15 - 03/19` | | | | | ADD DATE<br/>__P2 DUE__<br/> |
 | `03/22 - 03/26` | Student holiday | Student holiday | [L: dataflow~31][lec08] | [L: dataflow~$][lec08] | __PSET A DUE__ |
-| `03/29 - 04/02` | [L: dataflow][lec09] | L: dataflow               | L: dataflow               | L: dataflow               | L: dataflow               |
+| `03/29 - 04/02` | [L: dataflow~48][lec09] | | [L: dataflow][lec09] | L: dataflow               | L: dataflow               |
 | `04/05 - 04/09` |                 |                 |                 |                 | __P3 DUE__      |
 | `04/12 - 04/16` | L: loops               | L: loops               | L: reg               | CPW<br/>L: lattice       | CPW<br/>L: lattice       |
 | `04/19 - 04/23` | Patriots' Day   | Student holiday | L: lattice               | L: lattice               | __P4 DUE__<br/>L: lattice      |
