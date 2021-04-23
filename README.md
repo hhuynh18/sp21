@@ -54,7 +54,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `03/29 - 04/02` | [L: dataflow~48][lec09] | | [L: dataflow~$][lec09] | | |
 | `04/05 - 04/09` |                 |                 |                 |                 | __P3 DUE__      |
 | `04/12 - 04/16` | [L: loops~18][lec10] | [L: loops~$][lec10] | [L: lattice~15][lec12] | CPW<br/>[L: lattice~47][lec12] | CPW<br/> |
-| `04/19 - 04/23` | Patriots' Day | Student holiday | [L: lattice][lec10] | [L: reg][lec11] | __P4 DUE__<br/>[L: lattice][lec10] |
+| `04/19 - 04/23` | Patriots' Day | Student holiday | [L: lattice][lec10] | [L: reg~35][lec11] | __P4 DUE__<br/>[L: reg][lec11] |
 | `04/26 - 04/30` | L: lattice | L: parallel | L: parallel | DROP DATE   | __PSET B DUE__  |
 | `05/03 - 05/07` |                 |                 |                 |                 | __CHECKPOINT__  |
 | `05/10 - 05/14` |                 |                 |                 |                 |                 |
