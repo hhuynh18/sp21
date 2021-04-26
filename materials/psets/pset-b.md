@@ -52,6 +52,8 @@
 	print(x)
 	```
 
+	__Addendum:__ When constructing the CFG, __do not__ include the edge for the "not taken" branch of the while loop; since the loop condition is always true, the compiler is able to prune this edge in earlier optimization stages.
+
 	1. Describe the webs and draw the interference graph. Clearly indicate which web each node corresponds to in the interference graph.
 
 	1. Suppose we perform register allocation (using the method described in class) for a target architecture with three registers. Can we complete register allocation without spilling or splitting webs? Explain why.
