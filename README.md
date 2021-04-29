@@ -54,8 +54,8 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `03/29 - 04/02` | [L: dataflow~48][lec09] | | [L: dataflow~$][lec09] | | |
 | `04/05 - 04/09` |                 |                 |                 |                 | __P3 DUE__      |
 | `04/12 - 04/16` | [L: loops~18][lec10] | [L: loops~$][lec10] | [L: lattice~15][lec12] | CPW<br/>[L: lattice~47][lec12] | CPW<br/> |
-| `04/19 - 04/23` | Patriots' Day | Student holiday | [L: lattice][lec10] | [L: reg~35][lec11] | __P4 DUE__<br/>[L: reg~$][lec11] |
-| `04/26 - 04/30` | [L: lattice][lec10] | | [L: lattice~62][lec10] | DROP DATE<br/>L: mem | L: mem |
+| `04/19 - 04/23` | Patriots' Day | Student holiday | [L: lattice][lec12] | [L: reg~35][lec11] | __P4 DUE__<br/>[L: reg~$][lec11] |
+| `04/26 - 04/30` | [L: lattice~62][lec12] | | [L: lattice~$][lec12] | DROP DATE<br/>[L: sched][lec15] | L: sched |
 | `05/03 - 05/07` | __PSET B DUE__ |                 |                 |                 | __CHECKPOINT__ |
 | `05/10 - 05/14` |                 |                 |                 |                 |                 |
 | `05/17 - 05/21` |                 |                 | __P5 DUE__      | __LAST DAY__<br/>__L: DERBY__ |      |
@@ -74,6 +74,8 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 [lec11]: materials/lecture/lec11-register-allocation.pdf
 [lec12]: materials/lecture/lec12-foundations-of-dataflow.pdf
 [lec13]: materials/lecture/lec13-parallelization.pdf
+[lec14]: materials/lecture/lec14-mem.pdf
+[lec15]: materials/lecture/lec15-sched.pdf
 
 <!--- others --->
 [piazza]: https://piazza.com/mit/spring2021/6035
