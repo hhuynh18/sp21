@@ -55,8 +55,8 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `04/05 - 04/09` |                 |                 |                 |                 | __P3 DUE__      |
 | `04/12 - 04/16` | [L: loops~18][lec10] | [L: loops~$][lec10] | [L: lattice~15][lec12] | CPW<br/>[L: lattice~47][lec12] | CPW<br/> |
 | `04/19 - 04/23` | Patriots' Day | Student holiday | [L: lattice][lec12] | [L: reg~35][lec11] | __P4 DUE__<br/>[L: reg~$][lec11] |
-| `04/26 - 04/30` | [L: lattice~62][lec12] | | [L: lattice~$][lec12] | DROP DATE<br/>[L: sched][lec15] | L: sched |
-| `05/03 - 05/07` | __PSET B DUE__ |                 |                 |                 | __CHECKPOINT__ |
+| `04/26 - 04/30` | [L: lattice~62][lec12] | | [L: lattice~$][lec12] | DROP DATE<br/>[L: sched~52][lec15] | |
+| `05/03 - 05/07` | __PSET B DUE__<br/>[L: sched][lec15] |                 |                 |                 | __CHECKPOINT__ |
 | `05/10 - 05/14` |                 |                 |                 |                 |                 |
 | `05/17 - 05/21` |                 |                 | __P5 DUE__      | __LAST DAY__<br/>__L: DERBY__ |      |
 
