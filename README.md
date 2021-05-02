@@ -58,7 +58,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `04/26 - 04/30` | [L: lattice~62][lec12] | | [L: lattice~$][lec12] | DROP DATE<br/>[L: sched~52][lec15] | |
 | `05/03 - 05/07` | __PSET B DUE__<br/>[L: sched][lec15] |                 |                 |                 | __CHECKPOINT__ |
 | `05/10 - 05/14` |                 |                 |                 |                 |                 |
-| `05/17 - 05/21` |                 |                 | __P5 DUE__      | __LAST DAY__<br/>__L: DERBY__ |      |
+| `05/17 - 05/21` |                 |                 | __P5 DUE MIDNIGHT__      | __LAST DAY__<br/>__L: DERBY__ |      |
 
 <!--- lecture slides --->
 [lec01]: materials/lecture/lec01-f19-intro.pdf
