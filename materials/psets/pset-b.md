@@ -82,4 +82,5 @@
 - (3i) Your lattice should be of the form `{x₁ ↦ v₁, x₂ ↦ v₂, ..., xₙ ↦ vₙ}`, where `v₁, v₂, ..., vₙ` are elements of some base lattice `B`.
 - (3i) The least upper bound is completely defined by the order relation. Think about what a least upper bound on your lattice means and whether it matches what you want to do at merge points.
 - (3ii) Make sure that your function works correctly when either argument is `⊥` or `⊤`, particularly if they are special elements.
+- (3ii) Check that your function is monotonic, i.e. if l2 ≥ l1, then f(l2) ≥ l1.
 - (3iii) Use an if/else block to create a merge point. You don't need anything more complicated than that.
